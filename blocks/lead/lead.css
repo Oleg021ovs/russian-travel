@@ -1,0 +1,35 @@
+.lead {
+    max-width: 984px;
+    margin: 0 auto;
+    padding-top: 56px;
+    position: relative;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    box-sizing: border-box;
+  }
+
+ 
+  @media screen and (max-width: 1024px) {
+    .lead{
+      padding-top: 56px;
+      max-width: calc(100% - 96px);
+    }
+  }
+
+  @media screen and (max-width: 768px) {
+    .lead{
+      max-width: 100vw;
+    }
+  }
+
+  @media screen and (max-width: 320px) {
+    .lead{
+      padding-top: 50px;
+      max-width: 100vw;
+    }
+  }
+
+  
+
+  

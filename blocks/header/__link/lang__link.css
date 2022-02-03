@@ -1,0 +1,11 @@
+.lang__link {
+    font-size: 24px;
+    line-height: 28px;
+    margin-left: 18px;
+    color: #ffffff;
+    text-decoration: none;
+  }
+  
+  .lang__link:hover {
+   border-bottom: 1px solid #ffffff
+  } 
