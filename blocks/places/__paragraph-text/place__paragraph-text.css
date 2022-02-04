@@ -14,7 +14,7 @@
   @media screen  and (max-width: 1023px) {
     .place__paragraph-text {
       font-size: 16px;
-      line-height: 26px;
+      line-height: 163%;
     }
 
     .place__paragraph-text:not(:first-child) {
@@ -24,8 +24,8 @@
 
   @media screen  and (max-width: 768px) {
     .place__paragraph-text {
-     max-width: calc(100% - 2 * 16px);
-     line-height: 26px;
-     margin: 0 auto;
+      font-size: 16px;
+     line-height: 163%;
+     
     }
   }

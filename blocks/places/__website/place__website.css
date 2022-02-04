@@ -5,7 +5,8 @@
 
 @media screen and (min-width: 320px) and (max-width: 768px) {
 .place__website {
- align-self: flex-start;
- display: none;
+    gap: 32px 28px;
+    grid-template-columns: repeat(auto-fill, 320px);
+ 
     }
 }
