@@ -2,7 +2,8 @@
     max-width: calc(100% - 96px);
     margin: 0 auto;
     padding-top: 28px;
-    
+    display: flex;
+    justify-content: space-between;
     box-sizing: border-box;
   }
 

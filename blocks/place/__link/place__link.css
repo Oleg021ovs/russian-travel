@@ -1,4 +1,4 @@
-.places__link {
+.place__link {
     font-size: 18px;
     line-height: 122%;
     font-weight: normal;
@@ -9,7 +9,7 @@
     margin-top: 12px;
   }
 
-  .places__link:hover {
+  .place__link:hover {
     opacity: 0.8;
   }
   
