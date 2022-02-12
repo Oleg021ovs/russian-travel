@@ -2,13 +2,10 @@
     max-width: calc(100% - 96px);
     margin: 0 auto;
     overflow: hidden;
-    margin-top: 92px;
+    padding-top: 92px;
     object-fit: cover;
     box-sizing: border-box;
-    
-    
-
-    
+  
   }
 
   @media screen and (max-width: 1023px) {
@@ -16,11 +13,7 @@
      max-width: calc(100% - 96px);
      height: 640px;
      margin: 0 auto;
-     margin-top: 92px;
-     
-      
-      
-
+     padding-top: 92px;
     }
   }
 
@@ -28,11 +21,8 @@
     .cover {
       max-width: 100%;
       height: 480px;
-      margin-top: 90px;
-      padding: 0;
+      padding-top: 90px;
       
-      
-
     }
   }
 
@@ -40,10 +30,7 @@
     .cover {
       max-width: 100%;
       height: 200px;
-      margin-top: 66px;
-      padding: 0;
+      padding-top:  66px;
       
-      
-
     }
   }
