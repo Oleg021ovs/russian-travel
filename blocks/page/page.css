@@ -1,7 +1,7 @@
 .page {
     background-color: #2A2c2f;
     box-sizing: border-box;
-    font-family: 'inter-regular', 'inter-bold', 'inter-black';
+    font-family: 'Inter', Arial, Helvetica, sans-serif;
     font-weight: 400;
     margin: 0 auto;
   }
