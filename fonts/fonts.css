@@ -1,5 +1,5 @@
 @font-face {
-  font-family:inter-regular;
+  font-family: inter-black;
   src: url(../fonts/Inter-Black.ttf);
 }
 
@@ -9,6 +9,6 @@
 }
 
 @font-face {
-  font-family: inter-black;
+  font-family: inter-Regular;
   src: url(../fonts/Inter-Regular.ttf);
 }
