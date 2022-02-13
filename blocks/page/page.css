@@ -7,4 +7,5 @@
     -webkit-font-smoothing: antialiased;
     -moz-text-size-adjust: 100%;
     margin: 0 auto;
+    max-width: 1280px;
   }

@@ -1,4 +1,4 @@
-.header__link-active {
+.header_link_active {
     font-size: 24px;
     line-height: 117%;
     font-weight: normal;
@@ -6,4 +6,11 @@
     color: #ffffff;
     text-decoration-line: underline;
    
+}
+
+@media screen and (max-width: 320px) {
+    .header_link_active {
+        font-size: 18px;
+        line-height: 111%;
+    }
 }

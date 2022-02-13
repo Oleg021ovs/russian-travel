@@ -8,7 +8,7 @@
   
   }
 
-  @media screen and (max-width: 1023px) {
+  @media screen and (max-width: 1024px) {
     .cover {
      max-width: calc(100% - 96px);
      height: 640px;
@@ -19,7 +19,7 @@
 
   @media screen and (max-width: 768px) {
     .cover {
-      max-width: 100%;
+      max-width: 100vw;
       height: 480px;
       padding-top: 90px;
       
@@ -28,9 +28,7 @@
 
   @media screen and (max-width: 320px) {
     .cover {
-      max-width: 100%;
-      height: 200px;
-      padding-top:  66px;
+      max-width: 100vw;
       
     }
   }

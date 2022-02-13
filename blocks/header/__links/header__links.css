@@ -1,0 +1,21 @@
+.header__links {
+    font-size: 24px;
+    line-height: 117%;
+    font-weight: normal;
+    font-style: normal;
+    color: #ffffff;
+    text-decoration: none;
+    list-style-type: none;
+    
+  }
+
+  .header__links + .header__links {
+    margin-left: 18px;
+  }
+  
+  .header__links:hover {
+   opacity: 0.8;
+   
+  } 
+
+ 

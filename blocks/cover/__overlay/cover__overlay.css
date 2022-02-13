@@ -40,14 +40,12 @@
       height: 640px;
     }
   }
-
   @media screen and (max-width: 768px) { 
     .cover__overlay {
       width: 100%;
       height: 480px;
     }
   }
-
   @media screen and (max-width: 320px) { 
     .cover__overlay {
       width: 100%;
