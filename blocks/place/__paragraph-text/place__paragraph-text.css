@@ -5,6 +5,7 @@
     font-style: normal;
     color: #ffffff;
     margin: 0;
+    max-width: 484px;
   }
 
   .place__paragraph-text + .place__paragraph-text {
@@ -13,7 +14,7 @@
 
   
 
-  @media screen  and (max-width: 1023px) {
+  @media screen  and (max-width: 1024px) {
     .place__paragraph-text {
       font-size: 16px;
       line-height: 163%;
@@ -26,6 +27,7 @@
     .place__paragraph-text {
       font-size: 16px;
      line-height: 163%;
+     max-width: 352px;
      
     }
   }
@@ -36,6 +38,7 @@
      line-height: 163%;
      padding-left: 16px;
      padding-right: 16px;
+     max-width: 288px;
 
      
     }

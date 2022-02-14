@@ -8,6 +8,8 @@
     color: #ffffff;
   }
 
+  
+
   @media screen and (max-width: 320px) {
     .cover__title {
       font-weight: 900;
