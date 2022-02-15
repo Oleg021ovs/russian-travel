@@ -12,10 +12,11 @@
     padding-top: 80px;
   }
 
-  @media screen and (max-width: 768px) {
-    .place {
-    max-width: 720px;
-  }
+  @media screen and (max-width: 767px) {
+   .place {
+     grid-template-columns: repeat(1, 1fr);
+     grid-template-rows: auto;
+   }
   .place + .place {
     padding-top: 73px;
   }
