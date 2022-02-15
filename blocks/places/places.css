@@ -2,7 +2,7 @@
     margin: 0 auto;
     max-width: 984px;
     padding-top: 92px;
-    box-sizing: border-box;
+    
     
   }
 
@@ -20,7 +20,8 @@
     }
   }
 
-  @media screen and (max-width: 320px) {
+  @media screen and (max-width: 320px)
+  {
     .places {
       max-width: 100%;
       padding-top: 66px;
