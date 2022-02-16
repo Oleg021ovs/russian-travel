@@ -35,12 +35,11 @@
   @media screen  and (max-width: 320px) {
     .place__paragraph-text {
       font-size: 16px;
-     line-height: 163%;
-     padding-left: 16px;
-     padding-right: 16px;
-     max-width: 288px;
-     box-sizing: border-box;
-     margin: 0;
+      line-height: 163%;
+      max-width: 288px;
+      margin-left: 16px;
+      
+     
 
      
     }
